@@ -1,4 +1,4 @@
 # HeatTransfer
 
 
-SImulates hot folow moving across a plate.
+SImulates hot air flowing across a plate.
